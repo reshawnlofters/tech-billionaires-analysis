@@ -14,7 +14,7 @@ Python, Pandas, Seaborn, Matplotlib
 
 ## Getting Started
 
-Explore the analysis by opening the Jupyter Notebook file (`tech-industry-billionaires-analysis.ipynb`) in the repository.
+Explore the analysis by opening the Jupyter Notebook file (`tech-billionaires-analysis.ipynb`) in the repository.
 
 
 ## Developer
