@@ -2,7 +2,7 @@
 
 ## Overview
 
-The project explores the relationships and individuality of technology billionaires and the current state of the technology sector.
+The project explores the relationships and individuality of tech billionaires and the current state of the technology industry.
 
 ## Problem Statement
 
